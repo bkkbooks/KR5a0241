@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR5a0241/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0241/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉清玉笥青華秘文金寶鍊丹訣
+  date: '2015-08-28 23:42:49.663365'
+  source:
+    repository: kanripo
+    path: KR5a0241
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0241_000-YP-C.yaml, hash: 'sha256:cd30262ff83d6dbc49e9ff2c1a50c380f3cb379e87477e7ade590e28170d412e'}
+  - {seq: 1, filename: KR5a0241_001-YP-C.yaml, hash: 'sha256:9ecce8eaf0395d56da0be5add81aa99c5db29f4e629bd0bf3ee35266ca6148a8'}
+  - {seq: 2, filename: KR5a0241_002-YP-C.yaml, hash: 'sha256:2dadf22cb68c6bc447137d152b61fdb70e4e037114c02ea54f72d41eae725c10'}
+  - {seq: 3, filename: KR5a0241_003-YP-C.yaml, hash: 'sha256:339a1f3e1c773b9744166a4b69e25b7f725bc4575818de78c782676728eaa578'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0241_000-YP-C.markers.yaml, hash: 'sha256:9fd422f08092ca8eaafa84a34de83228abf7baaf70b9fb8181c1f161d7bc8da9'}
+  - {seq: 1, role: markers, filename: assets/KR5a0241_001-YP-C.markers.yaml, hash: 'sha256:852b82a2ba2e1c571098cd806d06f456a8fa59ae819a1fc978d67946c6a5f582'}
+  - {seq: 2, role: markers, filename: assets/KR5a0241_002-YP-C.markers.yaml, hash: 'sha256:46723b14a386aac06f4b664eda12099eaf5abfe682f1256b8ca0bc40b2eb09dc'}
+  - {seq: 3, role: markers, filename: assets/KR5a0241_003-YP-C.markers.yaml, hash: 'sha256:77258f2de6e698908b45832688181e7be1db27ae4a42221fb92aae80bf169bc5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0241_YP-C_15kuiji-01-0005a
+    span:
+    - body
+    - 0
+    - 3691
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0241_YP-C_15kuiji-01-0015b
+    span:
+    - body
+    - 0
+    - 4548
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0241_YP-C_15kuiji-01-0027b
+    span:
+    - body
+    - 0
+    - 3504
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:cd067d0f80026280d893e652caf9de46022984441cf2ee757f383a2896d7992d

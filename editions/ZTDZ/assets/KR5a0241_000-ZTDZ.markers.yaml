@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR5a0241/ZTDZ/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR5a0241_ZTDZ_000-front01}
+  - {type: 'kr:non-cjk', offset: 0, content: '<img:image', id: KR5a0241_ZTDZ_000-bkkkrnonc1}
+  - {type: punctuation, offset: 0, content: /, id: KR5a0241_ZTDZ_000-bkkpn1}
+  - {type: 'kr:non-cjk', offset: 0, content: '040378b_1.bmp><img:image', id: KR5a0241_ZTDZ_000-bkkkrnonc2}
+  - {type: punctuation, offset: 0, content: /, id: KR5a0241_ZTDZ_000-bkkpn2}
+  - {type: 'kr:non-cjk', offset: 0, content: 040378b_2.bmp>, id: KR5a0241_ZTDZ_000-bkkkrnonc3}
+  - {type: paragraph-break, offset: 0, content: '
+
+
+      ', id: KR5a0241_ZTDZ_000-bkkp1}
+  back: []
+hash: sha256:88907db4dcc88cb329685175166a9aee45e94c406bbd75dab719d18fa5444baf
