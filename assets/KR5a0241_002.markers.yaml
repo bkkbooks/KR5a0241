@@ -478,6 +478,7 @@ markers:
   - {type: variant, offset: 666, length: 6, content: 餘見一陽論探, CK-KZ: 採之}
   - {type: variant, offset: 666, length: 6, content: 餘見一陽論探, CK-KZ-jye: 採之}
   - {type: variant, offset: 666, length: 6, content: 餘見一陽論探, YP-C: 採之}
+  - {type: voice, offset: 666, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 669, content: /, id: KR5a0241_krp_002-bkkpn2}
   - {type: punctuation, offset: 671, content: ), id: KR5a0241_krp_002-bkkpn3}
   - {type: 'kr:non-cjk', offset: 671, content: ○, id: KR5a0241_krp_002-bkkkrnonc2}
@@ -1837,6 +1838,7 @@ markers:
   - {type: indent, offset: 2845, content: 　　　, id: KR5a0241_krp_002-bkkind37}
   - {type: indent, offset: 2847, content: 　, id: KR5a0241_krp_002-bkkind38}
   - {type: punctuation, offset: 2847, content: (, id: KR5a0241_krp_002-bkkpn4}
+  - {type: voice, offset: 2847, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 2854, content: ), id: KR5a0241_krp_002-bkkpn5}
   - {type: 'kr:newline', offset: 2854, content: '
 
@@ -3435,4 +3437,4 @@ markers:
 
       ', id: KR5a0241_krp_002-bkkkrnewl413}
   back: []
-hash: sha256:a9ac893939c55f99a875411c7396b4086c05df85c0923189fc946ae982d5b5d1
+hash: sha256:295a9c29f11ff169deea1a715f7893cff22840eea73bd3bd036efbfa59f11a29
